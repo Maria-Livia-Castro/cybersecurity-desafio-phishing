@@ -22,7 +22,6 @@
 ![Captura de tela 2024-12-06 124226](https://github.com/user-attachments/assets/a4aeb7ab-a0e6-4f93-9631-4dea50a6effa)
 - Método de ataque: Site Cloner
 #
-![Captura de tela 2024-12-06 123647](https://github.com/user-attachments/assets/b9122a90-2981-4985-b44c-0d9c8d0a6c79)
 - URL para clone: http://www.facebook.com
 #
 ### Resultado
